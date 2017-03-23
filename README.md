@@ -8,4 +8,5 @@ Parrot is ....
 # Privicat
 
 
-# Copylight : All right is reservd JEONG
+# 
+Copylight : All right is reservd JEONG
