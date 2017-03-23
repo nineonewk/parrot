@@ -6,3 +6,6 @@ Parrot is ....
 # Terms of use
 
 # Privicat
+
+
+# Copylight : All right is reservd JEONG
