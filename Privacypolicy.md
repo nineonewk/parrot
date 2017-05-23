@@ -61,7 +61,7 @@ Email : parrotalexa@gmail.com
 Telephone Number : +82-53-813-0799
 
 Address :
-NINEONE., Ltd.
+NINEONE CO., Ltd.
 
 2912-4, Dalgubeol-daero, Suseong-gu, Daegu, Republic of Korea
 
