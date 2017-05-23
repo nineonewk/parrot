@@ -7,9 +7,13 @@ A lot more is on the way!
 
 # How to use
 Your voice command, “Alexa, ask parrot” will get you started!
+
 She'll ask your name and please tell her your name. 
+
 Simply listen to what Alexa says and repeat after her. 
+
 She will tell you how much of what you said was correct. 
+
 It gets more challenging as you increase your level. 
 
 
