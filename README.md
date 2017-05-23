@@ -20,10 +20,15 @@ It gets more challenging as you increase your level.
 
 # Terms of use
 Please read the following terms carefully. 
+
 You must be at least 13 years old to open a Parrot account.
+
 You are solely responsible for protecting your own account password and other account information. 
+
 Free trial doesn't cost you anything. 
+
 Membership registration and user fee is required in order to use full function on Parrot. 
+
 We may change these terms at anytime but we will send you a notice. 
 
 # 
