@@ -1,4 +1,10 @@
+
+#Privacy Policy
+
+
 Last updated: (add date)
+
+
  
 My Company (change this) ("us", "we", or "our") operates http://www.mysite.com (change this) (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
  
