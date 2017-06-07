@@ -3,7 +3,7 @@ Privacy Policy
 
 Last updated: June 8, 2017
 
-My Company (change this) ("us", "we", or "our") operates http://www.mysite.com (change this) (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+parrot ("us", "we", or "our") operates https://github.com/nineonewk/parrot (change this) (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
  
 We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy.
  
@@ -19,9 +19,7 @@ This Log Data may include information such as your computer's Internet Protocol 
  
 In addition, we may use third party services such as Google Analytics that collect, monitor and analyze this …
  
-The Log Data section is for businesses that use analytics or tracking services in websites or apps, like Google Analytics. For the full disclosure section, create your own Privacy Policy.
- 
- 
+The Log Data section is for businesses that use analytics or tracking services in websites or apps, like Google Analytics. For the full disclosure section, create your own Privacy Policy. 
  
  
 Communications
