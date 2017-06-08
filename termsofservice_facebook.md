@@ -30,7 +30,13 @@ By continuing to access or use our Service after those revisions become effectiv
 
 Contact Us
 
-If you have any questions about these Terms, please contact us.
+If you have any questions about this Privacy Policy, please contact us.
 
-	
-답장하거나 전달하려면 여기를 클릭하세요.
+Email : parrotalexa@gmail.com
+
+Telephone Number : +82-53-813-0799
+
+Address : NINEONE CO., Ltd.
+
+2912-4, Dalgubeol-daero, Suseong-gu, Daegu, Republic of Korea
+
